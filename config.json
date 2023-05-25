@@ -1,0 +1,20 @@
+
+
+{
+  "params": {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/cleanblog",
+    "prod_uri": "mysql://root:@localhost/cleanblog",
+    "ad_blog": "Ad_Blog",
+    "ad_tagline": "A Blog by Adity",
+    "ad_instagram": "https://www.instagram.com/learnwithimage/",
+    "gmail-user": "adity0to9@gmail.com",
+    "gmail-password": "houjdunalwidmexh",
+    "about_text": "Hay this is Adity and i am learning new skills ",
+    "no_of_posts": 2,
+    "Admin_user": "Adity",
+    "Admin_password": "Aditya",
+    "UPLOAD_FOLDER": "PS C:\\Users\\user.LAPTOP\\Desktop\\Dev\\static"
+
+  }
+}
